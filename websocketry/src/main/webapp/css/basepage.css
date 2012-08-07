@@ -1,0 +1,17 @@
+.sidebar-nav {
+	padding: 9px 0;
+}
+
+#mainContent {
+	margin-top: 3%;
+}
+
+#canvas {
+	border-style: solid;
+	border-width: 1px;
+}
+
+#chatrow {
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
